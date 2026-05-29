@@ -96,9 +96,8 @@ Vitamin C has the second-highest mention count but ranks fourth on satisfaction 
 ---
 
 ## Dashboard
-
-**[View Interactive Dashboard on Tableau Public]([https://public.tableau.com/views/Sephora_Satisfaction_Signall/Dashboard12](https://public.tableau.com/views/Sephora_Satisfaction_Signall/Dashboard12?:language=zh-TW&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
-
+![Dashboard Preview](dashboard_preview.png)
+**[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Sephora_Satisfaction_Signall/Dashboard12?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 Four views:
 - **Driver Satisfaction** — Recommend rate by primary purchase driver
 - **Ingredient Satisfaction** — Avg rating and mention count by key ingredient
