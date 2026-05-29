@@ -3,7 +3,7 @@
 
 ---
 
-## TL;DR
+## Why this project
 
 When consumers buy anti-spot skincare, what do they actually say drove their decision? I filtered 1.09M Sephora reviews down to 653,867 anti-spot reviews, built a 5-category signal taxonomy (ingredient, authority, price, result, brand), and extracted signals using keyword + regex pattern matching. The most actionable finding: price-motivated buyers have the lowest recommendation rate (78%) while authority-influenced buyers have the highest (93%) — meaning brands that compete on price in this category are likely attracting the wrong customer.
 
@@ -97,7 +97,7 @@ Vitamin C has the second-highest mention count but ranks fourth on satisfaction 
 
 ## Dashboard
 
-**[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Sephora_Satisfaction_Signall/Dashboard12)**
+**[View Interactive Dashboard on Tableau Public]([https://public.tableau.com/views/Sephora_Satisfaction_Signall/Dashboard12](https://public.tableau.com/views/Sephora_Satisfaction_Signall/Dashboard12?:language=zh-TW&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
 
 Four views:
 - **Driver Satisfaction** — Recommend rate by primary purchase driver
