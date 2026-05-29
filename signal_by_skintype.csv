@@ -1,0 +1,5 @@
+skin_type,ingredient_rate,price_rate,result_rate,authority_rate,brand_rate,sample_size
+combination,0.0777,0.059,0.0358,0.0564,0.0037,328446
+dry,0.0782,0.0599,0.0328,0.0588,0.0032,108990
+normal,0.0746,0.0562,0.0328,0.0518,0.0036,79046
+oily,0.0795,0.0605,0.0361,0.0497,0.0032,72917
